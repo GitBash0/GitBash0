@@ -2,11 +2,8 @@
 
 <h1 align="center">Hey 👋🙂, I'm Bash</h1>
 <h3 align="center">A passionate simple developer from India</h3>
-###Images
 
-Image
-
-<img src="image\Hipster-Developer-Dice-1024x640.jpg" alt="drawing" width="200"/>
+<img src="Hipster-Developer-Dice-1024x640.jpg" alt="drawing" width="200"/>
 
 
 - 🔭 I’m currently working on [C programming](https://github.com/GitBash0/C-programming.git)
